@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 node_modules
 .env
 
@@ -15,3 +16,10 @@ node_modules
 
 # Hardhat Ignition default folder for deployments against a local node
 ignition/deployments/chain-31337
+=======
+node_modules/
+dist/
+build/
+.env
+.cache
+>>>>>>> 9867a9b74befa576987402a8b2b40f90b72f9cad
